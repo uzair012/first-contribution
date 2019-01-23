@@ -38,4 +38,3 @@
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Maria Khurshid](https://github.com/mariakhurshid)
 - [Arslan Talib](https://github.com/arslantalib12)
-- [Uzair Ahmad].(https://github.com/uzair012)
